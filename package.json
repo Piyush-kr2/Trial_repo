@@ -1,0 +1,10 @@
+{
+  "name": "auracalc",
+  "version": "1.0.0",
+  "description": "Modern Glassmorphic Calculator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
